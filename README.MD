@@ -4,7 +4,7 @@
 
 ### Instalar los servicios.
 
-1- Instalar docker en Ubuntu, pagina oficial de Docker
+1- Instalar docker en Ubuntu, página oficial de Docker
 ```
 https://docs.docker.com/engine/install/ubuntu/#install-from-a-package
 ```
